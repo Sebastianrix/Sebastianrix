@@ -14,6 +14,57 @@ class Stalk {
 //--------------------------------------------------------------------------------------------------
 //--------------------------------------------------------------------------------------------------
 //--------------------------------------------------------------------------------------------------
+int min2 = -25;
+int max2 =  9;
+ 
+
+int int_random2 = (int)Math.floor(Math.random()*(max2-min2+1)+min2);
+ 
+
+   
+      System.out.println(int_random3);
+     
+      
+      String question2= (null);
+if (int_random3 == 9)   {question3 = "9";}else
+if (int_random3 == 8)   {question3 = "8";}else
+if (int_random3 == 7)   {question3 = "7";}else
+if (int_random3 == 6)   {question3 = "6";}else
+if (int_random3 == 5)   {question3 = "5";}else
+if (int_random3 == 4)   {question3 = "4";}else
+if (int_random3 == 3)   {question3 = "3";}else
+if (int_random3 == 2)   {question3 = "2";}else
+if (int_random3 == 1)   {question3 = "1";}else
+if (int_random3 == 0)   {question3 = "0";}else
+if (int_random3 == -1)  {question3 = "a";}else
+if (int_random3 == -2)  {question3 = "b";}else
+if (int_random3 == -3)  {question3 = "c";}else
+if (int_random3 == -4)  {question3 = "d";}else
+if (int_random3 == -5)  {question3 = "e";}else
+if (int_random3 == -6)  {question3 = "f";}else
+if (int_random3 == -7)  {question3 = "g";}else
+if (int_random3 == -8)  {question3 = "h";}else
+if (int_random3 == -9)  {question3 = "i";}else
+if (int_random3 == -10) {question3 = "j";}else
+if (int_random3 == -11) {question3 = "k";}else
+if (int_random3 == -12) {question3 = "l";}else
+if (int_random3 == -13) {question3 = "m";}else
+if (int_random3 == -14) {question3 = "n";}else
+if (int_random3 == -15) {question3 = "o";}else
+if (int_random3 == -16) {question3 = "p";}else
+if (int_random3 == -17) {question3 = "q";}else
+if (int_random3 == -18) {question3 = "r";}else
+if (int_random3 == -19) {question3 = "s";}else
+if (int_random3 == -20) {question3 = "t";}else
+if (int_random3 == -21) {question3 = "u";}else
+if (int_random3 == -22) {question3 = "v";}else
+if (int_random3 == -23) {question3 = "w";}else
+if (int_random3 == -24) {question3 = "x";}else
+if (int_random3 == -25) {question3 = "y";}
+
+System.out.println(question3);
+        
+        
 //--------------------------------------------------------------------------------------------------
 
 
